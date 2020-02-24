@@ -574,7 +574,7 @@ d</title>
 // Alfil
 svgPieces.standard.I = `<defs>
 <style>
-.cls-1{fill:#b63c41;}.cls-2{fill:#040000;}.cls-2,.cls-3{opacity:0.2;isolation:isolate;}.cls-3{fill:#fff;}.cls-4{fill:#1a1a1a;}</style>
+.cls-1{fill:___COLORCODE___;}.cls-2{fill:#040000;}.cls-2,.cls-3{opacity:0.2;isolation:isolate;}.cls-3{fill:#fff;}.cls-4{fill:#1a1a1a;}</style>
 </defs>
 <title>
 CCDD 13</title>
@@ -595,7 +595,7 @@ CCDD 13</title>
 
 svgPieces.alpha.I = `<defs>
 <style>
-.cls-1,.cls-2,.cls-4{fill:#040000;}.cls-1,.cls-2{stroke:#040000;stroke-miterlimit:10;}.cls-2{stroke-width:4px;}.cls-3{fill:#b63c41;}</style>
+.cls-1,.cls-2,.cls-4{fill:#040000;}.cls-1,.cls-2{stroke:#040000;stroke-miterlimit:10;}.cls-2{stroke-width:4px;}.cls-3{fill:___COLORCODE___;}</style>
 </defs>
 <title>
 CCDD 14</title>
@@ -616,7 +616,7 @@ CCDD 14</title>
 
 svgPieces.classic.I = `<defs>
 <style>
-.cls-1{fill:#b63c41;}.cls-2{fill:#040000;}</style>
+.cls-1{fill:___COLORCODE___;}.cls-2{fill:#040000;}</style>
 </defs>
 <title>
 CCDD 15</title>
@@ -635,7 +635,7 @@ CCDD 15</title>
 // Dabbaba
 svgPieces.standard.S = `<defs>
 <style>
-.cls-1{fill:#b63c41;}.cls-2{fill:#fff;}.cls-2,.cls-3{opacity:0.2;isolation:isolate;}.cls-3{fill:#040000;}.cls-4{fill:#1a1a1a;}</style>
+.cls-1{fill:___COLORCODE___;}.cls-2{fill:#fff;}.cls-2,.cls-3{opacity:0.2;isolation:isolate;}.cls-3{fill:#040000;}.cls-4{fill:#1a1a1a;}</style>
 </defs>
 <title>
 CCDD 19</title>
@@ -651,7 +651,7 @@ CCDD 19</title>
 
 svgPieces.alpha.S = `<defs>
 <style>
-.cls-1{fill:#b63c41;}.cls-2{fill:#040000;}</style>
+.cls-1{fill:___COLORCODE___;}.cls-2{fill:#040000;}</style>
 </defs>
 <title>
 CCDD 20</title>
@@ -669,7 +669,7 @@ CCDD 20</title>
 
 svgPieces.classic.S = `<defs>
 <style>
-.cls-1{fill:#b63c41;}.cls-2{fill:#040000;}</style>
+.cls-1{fill:___COLORCODE___;}.cls-2{fill:#040000;}</style>
 </defs>
 <title>
 CCDD 21</title>
@@ -686,7 +686,7 @@ CCDD 21</title>
 // Camel
 svgPieces.standard.C = `<defs>
 <style>
-.cls-1,.cls-7{fill:#b63c41;}.cls-2,.cls-4{fill:#fff;}.cls-2,.cls-3,.cls-6{opacity:0.2;}.cls-2,.cls-6{isolation:isolate;}.cls-5{fill:#1a1a1a;}.cls-6{fill:#040000;}.cls-7{stroke:#040000;stroke-miterlimit:10;stroke-width:2px;}</style>
+.cls-1,.cls-7{fill:___COLORCODE___;}.cls-2,.cls-4{fill:#fff;}.cls-2,.cls-3,.cls-6{opacity:0.2;}.cls-2,.cls-6{isolation:isolate;}.cls-5{fill:#1a1a1a;}.cls-6{fill:#040000;}.cls-7{stroke:#040000;stroke-miterlimit:10;stroke-width:2px;}</style>
 </defs>
 <title>
 CCDD 22</title>
@@ -715,7 +715,7 @@ CCDD 22</title>
 
 svgPieces.alpha.C = `<defs>
 <style>
-.cls-1,.cls-3{fill:#b63c41;}.cls-2{fill:#040000;}.cls-3{stroke:#040000;stroke-miterlimit:10;stroke-width:2px;}</style>
+.cls-1,.cls-3{fill:___COLORCODE___;}.cls-2{fill:#040000;}.cls-3{stroke:#040000;stroke-miterlimit:10;stroke-width:2px;}</style>
 </defs>
 <title>
 CCDD 23</title>
@@ -742,7 +742,7 @@ CCDD 23</title>
 
 svgPieces.classic.C = `<defs>
 <style>
-.cls-1,.cls-2{fill:#b63c41;}.cls-1{stroke:#040000;stroke-miterlimit:10;stroke-width:3px;}.cls-3{fill:#040000;}</style>
+.cls-1,.cls-2{fill:___COLORCODE___;}.cls-1{stroke:#040000;stroke-miterlimit:10;stroke-width:3px;}.cls-3{fill:#040000;}</style>
 </defs>
 <title>
 CCDD 24</title>
@@ -766,7 +766,7 @@ CCDD 24</title>
 // Amazon
 svgPieces.standard.A = `<defs>
 <style>
-.cls-1{fill:#b63c41;}.cls-2,.cls-4{fill:#fff;}.cls-2,.cls-3,.cls-6{opacity:0.2;}.cls-2,.cls-6{isolation:isolate;}.cls-5{fill:#1a1a1a;}.cls-6{fill:#040000;}</style>
+.cls-1{fill:___COLORCODE___;}.cls-2,.cls-4{fill:#fff;}.cls-2,.cls-3,.cls-6{opacity:0.2;}.cls-2,.cls-6{isolation:isolate;}.cls-5{fill:#1a1a1a;}.cls-6{fill:#040000;}</style>
 </defs>
 <title>
 CCDD 16</title>
@@ -799,7 +799,7 @@ CCDD 16</title>
 
 svgPieces.alpha.A = `<defs>
 <style>
-.cls-1{fill:#b63c41;}.cls-2{fill:#040000;}</style>
+.cls-1{fill:___COLORCODE___;}.cls-2{fill:#040000;}</style>
 </defs>
 <title>
 CCDD 17</title>
@@ -836,7 +836,7 @@ CCDD 17</title>
 
 svgPieces.classic.A = `<defs>
 <style>
-.cls-1{fill:#b63c41;}.cls-2{fill:#040000;}</style>
+.cls-1{fill:___COLORCODE___;}.cls-2{fill:#040000;}</style>
 </defs>
 <title>
 CCDD 18</title>
@@ -862,7 +862,7 @@ CCDD 18</title>
 // Elephant
 svgPieces.standard.E = `<defs>
 <style>
-.cls-1{fill:#b63c41;}.cls-2,.cls-5{opacity:0.2;}.cls-3,.cls-6{fill:#fff;}.cls-4{fill:#1a1a1a;}.cls-5{fill:#040000;}.cls-5,.cls-6{isolation:isolate;}.cls-6{opacity:0.3;}</style>
+.cls-1{fill:___COLORCODE___;}.cls-2,.cls-5{opacity:0.2;}.cls-3,.cls-6{fill:#fff;}.cls-4{fill:#1a1a1a;}.cls-5{fill:#040000;}.cls-5,.cls-6{isolation:isolate;}.cls-6{opacity:0.3;}</style>
 </defs>
 <title>
 CCDD 10</title>
@@ -890,7 +890,7 @@ CCDD 10</title>
 
 svgPieces.alpha.E = `<defs>
 <style>
-.cls-1{fill:#b63c41;}.cls-2{fill:#040000;}</style>
+.cls-1{fill:___COLORCODE___;}.cls-2{fill:#040000;}</style>
 </defs>
 <title>
 CCDD 4</title>
@@ -914,7 +914,7 @@ CCDD 4</title>
 
 svgPieces.classic.E = `<defs>
 <style>
-.cls-1{fill:#b63c41;}.cls-2{fill:#040000;}.cls-3{fill:#231815;}</style>
+.cls-1{fill:___COLORCODE___;}.cls-2{fill:#040000;}.cls-3{fill:#231815;}</style>
 </defs>
 <title>
 CCDD 7</title>
@@ -935,7 +935,7 @@ CCDD 7</title>
 // Hawk
 svgPieces.standard.H = `<defs>
 <style>
-.cls-1{fill:#b63c41;}.cls-2,.cls-6{fill:#040000;}.cls-3,.cls-6{opacity:0.2;}.cls-4{fill:#fff;}.cls-5{fill:#1a1a1a;}.cls-6{isolation:isolate;}</style>
+.cls-1{fill:___COLORCODE___;}.cls-2,.cls-6{fill:#040000;}.cls-3,.cls-6{opacity:0.2;}.cls-4{fill:#fff;}.cls-5{fill:#1a1a1a;}.cls-6{isolation:isolate;}</style>
 </defs>
 <title>
 CCDD 2</title>
@@ -960,7 +960,7 @@ CCDD 2</title>
 
 svgPieces.alpha.H = `<defs>
 <style>
-.cls-1{fill:#b63c41;}.cls-2{fill:#040000;}</style>
+.cls-1{fill:___COLORCODE___;}.cls-2{fill:#040000;}</style>
 </defs>
 <title>
 CCDD 5</title>
@@ -983,7 +983,7 @@ CCDD 5</title>
 
 svgPieces.classic.H = `<defs>
 <style>
-.cls-1{fill:#b63c41;}.cls-2{fill:#040000;}</style>
+.cls-1{fill:___COLORCODE___;}.cls-2{fill:#040000;}</style>
 </defs>
 <title>
 CCDD 8</title>
@@ -1004,7 +1004,7 @@ CCDD 8</title>
 // Wildebeest
 svgPieces.standard.V = `<defs>
 <style>
-.cls-1,.cls-9{fill:#b63c41;}.cls-2,.cls-5{opacity:0.2;}.cls-3,.cls-6{fill:#fff;}.cls-4{fill:#1a1a1a;}.cls-5,.cls-8{fill:#040000;}.cls-5,.cls-6,.cls-8{isolation:isolate;}.cls-6,.cls-7,.cls-8{opacity:0.2;}.cls-9{stroke:#040000;stroke-miterlimit:10;stroke-width:2px;}</style>
+.cls-1,.cls-9{fill:___COLORCODE___;}.cls-2,.cls-5{opacity:0.2;}.cls-3,.cls-6{fill:#fff;}.cls-4{fill:#1a1a1a;}.cls-5,.cls-8{fill:#040000;}.cls-5,.cls-6,.cls-8{isolation:isolate;}.cls-6,.cls-7,.cls-8{opacity:0.2;}.cls-9{stroke:#040000;stroke-miterlimit:10;stroke-width:2px;}</style>
 </defs>
 <title>
 CCDD 28</title>
@@ -1042,7 +1042,7 @@ CCDD 28</title>
 
 svgPieces.alpha.V = `<defs>
 <style>
-.cls-1,.cls-3{fill:#b63c41;}.cls-2{fill:#040000;}.cls-3{stroke:#040000;stroke-miterlimit:10;stroke-width:2px;}</style>
+.cls-1,.cls-3{fill:___COLORCODE___;}.cls-2{fill:#040000;}.cls-3{stroke:#040000;stroke-miterlimit:10;stroke-width:2px;}</style>
 </defs>
 <title>
 CCDD 29</title>
@@ -1078,7 +1078,7 @@ CCDD 29</title>
 
 svgPieces.classic.V = `<defs>
 <style>
-.cls-1,.cls-2{fill:#b63c41;}.cls-1{stroke:#040000;stroke-miterlimit:10;stroke-width:3px;}.cls-3{fill:#040000;}</style>
+.cls-1,.cls-2{fill:___COLORCODE___;}.cls-1{stroke:#040000;stroke-miterlimit:10;stroke-width:3px;}.cls-3{fill:#040000;}</style>
 </defs>
 <title>
 CCDD 30</title>
